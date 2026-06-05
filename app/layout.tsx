@@ -115,7 +115,7 @@ export default function RootLayout({
             <div className="flex items-center gap-3">
               <Button variant="ghost" size="icon" className="size-9 rounded-lg" asChild>
                 <a
-                  href="https://github.com/owais/dns-test"
+                  href="https://github.com/owaiss0/Dns-checker"
                   target="_blank"
                   rel="noreferrer"
                   title="View Source on GitHub"
